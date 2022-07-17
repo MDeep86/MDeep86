@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDeep86
-- 👀 I’m interested in HTML, CSS, JS, React and Redux
+- 👀 I’m interested in HTML, CSS, JavaScript, React and Redux
 - 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Anuthing :)
+- 💞️ I’m looking to collaborate on JavaScript projects :)
 - 📫 How to reach me mandeeparora07@gmail.com
 
 <!---
